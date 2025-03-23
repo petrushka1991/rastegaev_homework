@@ -174,14 +174,14 @@ backend web_servers    # секция бэкенд
 
 ### Задание 3
 
-`Приведите ответ в свободной форме........`
+Запрос .jpg файлов с веб-сервера.
 
-1. `Заполните здесь этапы выполнения, если требуется ....`
-2. `Заполните здесь этапы выполнения, если требуется ....`
-3. `Заполните здесь этапы выполнения, если требуется ....`
-4. `Заполните здесь этапы выполнения, если требуется ....`
-5. `Заполните здесь этапы выполнения, если требуется ....`
-6. 
+![nginx_jpg.jpg](https://github.com/petrushka1991/rastegaev_homework/blob/main/images/clustering_and_load_balancing/nginx_jpg.jpg) 
+
+Запрос не .jpg c веб-сервера.
+![balancing_any_other_file.jpg](https://github.com/petrushka1991/rastegaev_homework/blob/main/images/clustering_and_load_balancing/balancing_any_other_file.jpg)
+
+
 
 ```
 Поле для вставки кода...
