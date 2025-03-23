@@ -77,6 +77,7 @@ listen web_tcp
 ```
 
 Скриншот curl на порт 1325, запросы идут 50 на 50.
+
 ![alt text](https://github.com/petrushka1991/rastegaev_homework/blob/main/images/balancing_tcp.jpg)
 
 '''
