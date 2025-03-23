@@ -43,6 +43,7 @@
 ![balancing_any_other_file](https://github.com/petrushka1991/rastegaev_homework/blob/main/Clustering_and_load_balancing/images/balancing_any_other_file.jpg)
 
 [Конфиг HAProxy](ex3/haproxy.cfg)
+
 [Конфиг Nginx](ex3/nginx.cfg)
 
 ### Задание 4
