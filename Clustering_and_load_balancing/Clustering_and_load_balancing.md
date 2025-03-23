@@ -11,6 +11,8 @@
 ![balancing_tcp](https://github.com/petrushka1991/rastegaev_homework/blob/main/Clustering_and_load_balancing/images/balancing_tcp.jpg)
 
 [Конфиг HAProxy](ex1/haproxy.cfg)
+
+
 ---
 
 ### Задание 2
@@ -29,6 +31,8 @@
 ![blancing_http](https://github.com/petrushka1991/rastegaev_homework/blob/main/Clustering_and_load_balancing/images/without_http.jpg)
 
 [Конфиг HAProxy](ex2/haproxy.cfg)
+
+
 ---
 
 ### Задание 3
@@ -45,6 +49,9 @@
 [Конфиг HAProxy](ex3/haproxy.cfg)
 
 [Конфиг Nginx](ex3/nginx.cfg)
+
+
+---
 
 ### Задание 4
 
