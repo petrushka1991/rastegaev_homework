@@ -5,7 +5,7 @@
 
 ### Задание 1
 
-Конфиг HAProxy 2балансирови Round-robin на 4 уровне.
+Конфиг HAProxy балансировки Round-robin на 4 уровне.
 
 ```
 global
