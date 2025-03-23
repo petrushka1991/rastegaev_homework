@@ -75,6 +75,8 @@ listen web_tcp
 	server s1 127.0.0.1:8888 check inter 3s
 	server s2 127.0.0.1:9999 check inter 3s
 ```
+
+Скриншот curl на порт 1325, запросы идут 50 на 50.
 ![alt text](https://github.com/petrushka1991/rastegaev_homework/blob/main/images/balancing_tcp.jpg)
 
 '''
