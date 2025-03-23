@@ -1,4 +1,4 @@
-#  - ``
+# Домашнее задание к занятию 3 «Резервное копирование» - `Растегаев И.О.`
 
 ---
 
@@ -32,8 +32,11 @@
 
 
 Команда:
+
+```
 rsync -av --bwlimit=1000 --progress /home/rast/source_backup/alpine rast@192.168.0.2:/home/rast/destination_backup/
 
+```
 ![large_file_limit](https://github.com/petrushka1991/rastegaev_homework/blob/main/Backup/images/large_file_limit.jpg)
 
 
