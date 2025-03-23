@@ -8,7 +8,7 @@
 
 Вывод curl на порт 1325, запросы идут 50 на 50.
 
-![balancing_tcp](https://github.com/petrushka1991/rastegaev_homework/Clustering_and_load_balancing/images/balancing_tcp.jpg)
+![balancing_tcp](https://github.com/petrushka1991/rastegaev_homework/blob/main/Clustering_and_load_balancing/images/balancing_tcp.jpg)
 
 
 ---
