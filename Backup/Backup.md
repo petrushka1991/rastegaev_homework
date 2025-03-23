@@ -37,6 +37,7 @@
 rsync -av --bwlimit=1000 --progress /home/rast/source_backup/alpine rast@192.168.0.2:/home/rast/destination_backup/
 
 ```
+
 ![large_file_limit](https://github.com/petrushka1991/rastegaev_homework/blob/main/Backup/images/large_file_limit.jpg)
 
 
@@ -45,8 +46,16 @@ rsync -av --bwlimit=1000 --progress /home/rast/source_backup/alpine rast@192.168
 ### Задание 4
 
 
-text.
+Результат выполнения скрипта резервного копирования.
 
-![]()
+![incremental_backup](https://github.com/petrushka1991/rastegaev_homework/blob/main/Backup/images/incremental_backup.jpg)
 
-[]()
+
+Результат выполнения скрипта восстановления их резевоной копии.
+
+![incremental_restore](https://github.com/petrushka1991/rastegaev_homework/blob/main/Backup/images/incremental_restore.jpg)
+
+
+[Скрипт резервного копировния](ex4/incremental_home_backup.sh)
+
+[Скрипт восстановления](ex4/incremental_home_restore.sh)
