@@ -157,11 +157,11 @@ backend web_servers    # секция бэкенд
 	#server s2 127.0.0.1:9999 check inter 3s
 
 ```
-Скриншот curl с указанием домена, запросы вроде \~40\~30\~20.
+Скриншот curl с указанием домена, запросы вроде \~40%\~30%\~20%.
 
 ![blancing_http](https://github.com/petrushka1991/rastegaev_homework/blob/main/images/clustering_and_load_balancing/balancing_http.jpg)
 
-Скриншот страницы stats
+Скриншот страницы stats.
 
 ![blancing_http](https://github.com/petrushka1991/rastegaev_homework/blob/main/images/clustering_and_load_balancing/haproxy_stats.jpg) 
 
