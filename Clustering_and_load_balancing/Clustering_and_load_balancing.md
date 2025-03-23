@@ -10,7 +10,7 @@
 
 ![balancing_tcp](https://github.com/petrushka1991/rastegaev_homework/blob/main/Clustering_and_load_balancing/images/balancing_tcp.jpg)
 
-
+[Конфиг HAProxy](ex1/haproxy.cfg)
 ---
 
 ### Задание 2
