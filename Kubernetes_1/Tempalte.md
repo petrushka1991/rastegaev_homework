@@ -79,8 +79,12 @@ Handling connection for 6379
 ### Задание 4
 
 
-text.
+Ingress, направляющий запросы по префиксу /test.
 
-![]()
+```
+rast@VM1:~/minikube$ curl http://192.168.49.2/test
+Hello from k8s
 
-[]()
+```
+
+[Конфиг Deployment](ex4/nginx-configmap-deployment.yaml)
