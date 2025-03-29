@@ -10,19 +10,19 @@
 
 ![get_pods](images/get_pods.jpg)
 
-[]()
-
 
 ---
+
 
 ### Задание 2
 
 
-text.
+Запуск Deployment и Service.
+Скриншот с взаимодействием и конфиг Deployment.
 
-![]()
+![deployment_service.jpg](images/deployment_service.jpg)
 
-[]()
+[Конфиг Deployment](ex2/redis-deployment.yaml)
 
 
 ---
