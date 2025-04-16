@@ -10,8 +10,6 @@
 
 ![gitlab_runner](images/gitlab_runner.JPG)
 
-[]()
-
 
 ---
 
