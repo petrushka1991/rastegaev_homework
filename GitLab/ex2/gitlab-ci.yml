@@ -1,0 +1,33 @@
+stages:
+  - test
+  - build
+
+test:
+  stage: test
+  image: golang:1.16
+  script: 
+   - go test .
+  tags:
+    - cloud
+    
+build:
+  stage: build
+  image: docker:latest
+  only:
+    - main
+  script:
+   - docker build .
+  tags:
+    - cloud
+    
+build:
+  stage: build
+  image: docker:latest
+  when: manual
+  except:
+    - master
+  script:
+   - docker build .
+  tags:
+    - cloud
+    
