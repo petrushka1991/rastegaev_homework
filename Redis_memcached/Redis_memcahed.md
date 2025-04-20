@@ -16,11 +16,9 @@
 ### Задание 2
 
 
-text.
+Статус memcached.
 
-![]()
-
-[]()
+![status_memcached](images/status_memcached.JPG)
 
 
 ---
@@ -28,11 +26,9 @@ text.
 ### Задание 3
 
 
-text.
+Пришлось выставить значение 10, слишком быстро удалялись.
 
-![]()
-
-[]()
+![memcached_keys](images/memcached_keys.jpg)
 
 
 ---
@@ -40,8 +36,15 @@ text.
 ### Задание 4
 
 
-text.
+Записанные ключи в Redis.
 
-![]()
+![redis_keys](images/redis_keys.jpg)
 
-[]()
+
+---
+
+### Задание 5
+
+Увеличение значения key5 на 5.
+
+![redis_incrby](images/redis_incrby.jpg)
