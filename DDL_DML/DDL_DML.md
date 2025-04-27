@@ -48,6 +48,12 @@
 | rental        | rental_id                     |
 | staff         | staff_id                      |
 | store         | store_id                      |
+| actor_info    | actor_id                      |
+| customer_list | ID                            |
+| film_list     | FID                           |
+| nicer_but_slower_film_list    | FID           |
+| sales_by_store| -                             |
+| staff_list    | ID                            |
 
 
 ---
