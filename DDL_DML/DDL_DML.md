@@ -8,11 +8,11 @@
 
 1. Создание учетной записи sys_temp и получение списка пользователей в БД.
 
-![create_user](images\create_user.jpg)
+![create_user](images/create_user.jpg)
 
 2. Делегирование всех прав пользователю sys_temp и запрос на получение прав пользователя.
 
-![grants_all_show_grants](images\grants_all_show_grants.jpg)
+![grants_all_show_grants](images/grants_all_show_grants.jpg)
 
 3. Восстановление дампа БД и show tables.
 
