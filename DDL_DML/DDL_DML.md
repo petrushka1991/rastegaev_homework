@@ -31,21 +31,23 @@
 Таблица с ключами.
 
 | Название таблицы  | Название первичного ключа |
-| ------------- | ------------- |
-| custumer  | custumer_id  |
-| store  | store_id  |
-| staff  | staff_id  |
-| address  | address_id  |
-| city  | city_id  |
-| country  | country_id  |
-| rental  | rental_id  |
-| payment  | payment_id  |
-| intentory  | intentory_id  |
-| actor  | actor_id  |
-| film  | film_id  |
-| language  | language_id  |
-| category  | category_id  |
-| intentory  | intentory_id  |
+| ------------- | ------------------------------|
+| actor         | actor_id                      |
+| address       | address_id                    |
+| category      | category_id                   |
+| city          | city_id                       |
+| country       | country_id                    |
+| custumer      | custumer_id                   |
+| film          | film_id                       |
+| film_actor    | film_id, actor_id             |
+| film_category | film_id, category_id          |
+| film_text     | film_id                       |
+| intentory     | intentory_id                  |
+| language      | language_id                   |
+| payment       | payment_id                    |
+| rental        | rental_id                     |
+| staff         | staff_id                      |
+| store         | store_id                      |
 
 
 ---
